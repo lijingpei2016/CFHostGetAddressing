@@ -1,2 +1,3 @@
 # CFHostGetAddressing
 基于CFNetwork把域名解析为IP
+返回的是数组，所以可能得到多个ip
